@@ -1,0 +1,9 @@
+h1{
+   color: rgb(255, 0, 0);
+   font-size: 200px; 
+}
+.contenedor_parrafos{
+    border:solid 2px;
+    background-color: cyan;
+    border-radius: 8px;
+}
